@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 
-// Just recently provided by professor in class since we just started covering coding smart contracts last week
+// Just recently provided by professor in class since we just started coding smart contracts last week
 // We deployed and tested in our section using the goerli test network (see link below)
 // https://goerli.etherscan.io/address/0x478805e928c9449914ae22da20dfdf94841e0d8e#code
 
