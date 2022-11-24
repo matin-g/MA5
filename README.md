@@ -1,7 +1,7 @@
 # DSC180A-Methodology-5
 
-The TA said to submit empty files for MA5 (later the professor said I don't have to submit at all in this 
-edstem post - https://edstem.org/us/courses/28947/discussion/2202683) 
+The TA said to submit empty files for MA5 **(later the professor said I don't have to submit at all in this 
+edstem post - https://edstem.org/us/courses/28947/discussion/2202683)**
 since so far we have only written a simple smart contract and since our industry mentor just provided a 
 template for our Q1 project which is the solidity file (run.sol) which we can only run using a online
 test network and since we dont have any test data (our project doesn't rely on stored data in any way). 
