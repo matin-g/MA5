@@ -8,7 +8,6 @@ will be in our case and how we would implement a target in run.py since our file
 which we can only run on the online test network with a test Ethereum account that has test Ethereum for 
 the gas fees. Thus since testing in our case cannot be done locally and needs to be done in a online test  
 network (for our case we use goerli) so the TA said to submit the files needed for this submission as empty 
-and include the smart contract which is the file run.sol (porvided by professor in class).
+and include the smart contract which is the file run.sol (professor provided and we deployed in our section).
 
-The following is where a link to the code (run.sol) professor provided and deployed in our section.
-https://goerli.etherscan.io/address/0x478805e928c9449914ae22da20dfdf94841e0d8e#code
+The following is a link to the deployed smart contract (run.sol) where we perform testing. https://goerli.etherscan.io/address/0x478805e928c9449914ae22da20dfdf94841e0d8e#code
